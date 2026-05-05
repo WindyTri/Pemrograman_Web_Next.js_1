@@ -11,7 +11,7 @@ export default function tugasDua () {
                     <div className="flex flex-row justify-between">
                         <div className="m-3">
                         <h1 className="text-3xl font-bold text-blue-900">Adobe Photoshop</h1>
-                        <p className="text-blue-900">in 3 days</p>
+                        <p className="text-blue-900 font-bold">in 3 days</p>
                         </div>
 
                         <div className="flex flex-row -space-x-3 mt-13 mx-3">
@@ -19,7 +19,7 @@ export default function tugasDua () {
                             <img src={'/2.jpeg'} className="h-6 w-6 rounded-full border-2 border-white" alt="Current"/>
                             <img src={'/3.jpeg'} className="h-6 w-6 rounded-full border-2 border-white" alt="Current"/>
                             <div className="bg-white text-blue-900 rounded-full border-2 border-white h-6 w-6 flex justify-center items-center">
-                                <p className="text-[10px] text-blue-900">9+</p>
+                                <p className="text-[10px] text-blue-900 font-bold">9+</p>
                             </div>
                         </div>
                     </div>
@@ -38,7 +38,7 @@ export default function tugasDua () {
                     <div className="m-3 justify-between flex flex-row items-end">
                         <div className="">
                             <h1 className="text-2xl font-bold text-green-900">DALL󠁯‧E 2, Midjourney, Stable Diffusion</h1>
-                            <p>in 5 days</p>
+                            <p className="font-bold text-green-900">in 5 days</p>
                         </div>
                         <div className="flex -space-x-3 translate-y-1 mx-5 ">
                                 <img src={'/1_2.jpeg'} className="h-6 w-6 rounded-full border-2 border-white" alt="Current"/>
@@ -46,7 +46,7 @@ export default function tugasDua () {
 
                                 <img src={'/3_2.jpeg'} className="h-6 w-6 rounded-full border-2 border-white" alt="Current"/>
                                 <div className="bg-white rounded-full border-2 border-white h-6 w-6 flex justify-center items-center shrink-0">
-                                    <p className="text-[10px] text-green-900">3+</p>
+                                    <p className="text-[10px] text-green-900 font-bold">3+</p>
                                 </div>
                         </div>
                         
@@ -65,7 +65,7 @@ export default function tugasDua () {
                     </div>
                     <div className="m-3">
                         <h1 className="text-3xl font-bold text-purple-900">Figma</h1>
-                        <p className="text-purple-900">8 hour ago</p>
+                        <p className="text-purple-900 font-bold">8 hour ago</p>
                     </div>
                 </div>
 
@@ -76,7 +76,7 @@ export default function tugasDua () {
                     </div>
                     <div className="m-3">
                         <h1 className="text-3xl font-bold text-orange-900">Python</h1>
-                        <p className="text-orange-900">2 days ago</p>
+                        <p className="text-orange-900 font-bold">2 days ago</p>
                     </div>
                 </div>
 
@@ -87,7 +87,7 @@ export default function tugasDua () {
                     </div>
                     <div className="m-3">
                         <h1 className="text-3xl font-bold text-red-900">Sketch</h1>
-                        <p className="text-red-900">4 days ago</p>
+                        <p className="text-red-900 font-bold">4 days ago</p>
                     </div>
                 </div>
 
