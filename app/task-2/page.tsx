@@ -1,4 +1,4 @@
-export default function learnPage () {
+export default function tugasDua () {
     return(
         <div className="bg-white h-screen flex flex-col text-blue-950 gap-4 p-8">
             {/* Bagian 1 */}
