@@ -1,5 +1,4 @@
-import CardScheduleDestination from "./_components/box";
-import Box from "./_components/box";
+import CardScheduleDestination from "./_components/tiket";
 
 export default function tiket (){
     return(
